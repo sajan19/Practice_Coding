@@ -1,0 +1,25 @@
+Day 5 
+#Problems 1 Sequences Practice Problem
+Q1) Direct code
+Q2) Direct code
+Q3) addRandomNum.sh
+Q4) SumAverage.sh
+Q5) Not Done
+
+#Problems 2 Selection if & else
+Q1) month_date.sh
+Q2) Not Done
+Q3) leap_year.sh
+Q4) CoinToss.sh
+
+#Selection Problems if, elif and else
+Q1) num_word.sh
+Q2) weekday.sh
+Q3) number_unitPlace.sh
+Q4) arithmeticOps.sh
+
+#Selection with case Statement
+Q1) num_wordCase.sh
+Q2) weedayCase.sh
+Q3) number_unitPlaceCase.sh
+Q4)Not Done
