@@ -1,0 +1,8 @@
+Answers to the awk program:
+Q1)	 $ cat data.csv | awk '$4>10000' | awk '{print $2 "   " $7}'
+
+Q2)	$ cat data.csv | grep -i captain | awk '{sum+=$7} END {print sum}'
+
+
+Q3)	
+
