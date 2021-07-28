@@ -5,7 +5,7 @@
 	then
         echo $year "Year is a Leap Year";
 	elif [ `expr $year % 4` -eq 0 ]
-	then 
+	then
 			echo $year  "Year is a Leap year";
 	else
         echo "Year is not a leap Year";
