@@ -4,5 +4,8 @@ Q1)	 $ cat data.csv | awk '$4>10000' | awk '{print $2 "   " $7}'
 Q2)	$ cat data.csv | grep -i captain | awk '{sum+=$7} END {print sum}'
 
 
-Q3)	
+Q3)	$ cat data.csv | awk '$5>=7000 || $5 <=10000 {print $3 " " $5}'
+
+Q4)	$ cat data.csv | awk '{sum+=$4} END {print sum/NR}'
+
 
